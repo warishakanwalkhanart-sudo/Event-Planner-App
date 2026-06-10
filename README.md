@@ -2,7 +2,18 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+## 📱 App Download
+
+Download / Install the app using this link:
+
+👉 https://expo.dev/accounts/warishakanwal/projects/my-app/builds/8e20d60f-549a-4267-9423-0b42e8ac5faa
+
+
+
+
 ## Get started
+
+
 
 1. Install dependencies
 
