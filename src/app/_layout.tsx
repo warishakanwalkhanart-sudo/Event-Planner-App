@@ -1,16 +1,28 @@
-import { DarkTheme, DefaultTheme, ThemeProvider } from '@react-navigation/native';
-import React from 'react';
-import { useColorScheme } from 'react-native';
+import { Stack } from "expo-router";
+import { Text, View } from "react-native";
+import EventProvider from "./context/EventContext";
 
-import { AnimatedSplashOverlay } from '@/components/animated-icon';
-import AppTabs from '@/components/app-tabs';
-
-export default function TabLayout() {
-  const colorScheme = useColorScheme();
+export default function Layout() {
   return (
-    <ThemeProvider value={colorScheme === 'dark' ? DarkTheme : DefaultTheme}>
-      <AnimatedSplashOverlay />
-      <AppTabs />
-    </ThemeProvider>
+    <EventProvider>
+      <View style={{ flex: 1 }}>
+
+        {/* NAVBAR */}
+        <View
+          style={{
+            height: 60,
+            backgroundColor: "black",
+            justifyContent: "center",
+            paddingLeft: 15,
+          }}
+        >
+          <Text style={{ color: "white", fontSize: 18 }}>
+            Event Planner
+          </Text>
+        </View>
+
+        <Stack screenOptions={{ headerShown: false }} />
+      </View>
+    </EventProvider>
   );
 }
