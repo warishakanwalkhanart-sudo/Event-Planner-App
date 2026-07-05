@@ -15,6 +15,41 @@ A cross-platform mobile application built with React Native (Expo Go) that helps
 Splash ScreenHome DashboardUpcoming EventsShow ImageShow ImageShow Image
 
 Create EventEvent GuideShow ImageShow Image
+Starting Screen
+
+<img width="385" height="841" alt="1st screen" src="https://github.com/user-attachments/assets/0d4c0df0-89f0-41aa-b2d2-41b726580cc6" />
+
+Menue / List item
+
+<img width="408" height="844" alt="Cards list   menue" src="https://github.com/user-attachments/assets/b940be10-911a-437e-bcf4-b970dd67c6d6" />
+
+Upcoming events 
+
+<img width="447" height="843" alt="Upcoming events" src="https://github.com/user-attachments/assets/e1d15b48-8147-4812-ba9b-7d193504342b" />
+
+<img width="421" height="837" alt="Upcoming evnt" src="https://github.com/user-attachments/assets/8e6db0f4-0150-4869-b1ab-1e213c0cfd07" />
+
+
+Past events
+
+<img width="379" height="847" alt="Past evets" src="https://github.com/user-attachments/assets/79526686-72fe-488b-950a-bcf42f060acb" />
+
+Create Events Form
+
+<img width="393" height="846" alt="create events" src="https://github.com/user-attachments/assets/6a94ae71-2e39-45a2-9aa4-cb00dd1ddbbe" />
+
+Events Planing Guide Book
+
+<img width="385" height="843" alt="Enents planing guide" src="https://github.com/user-attachments/assets/e3d633e8-686e-4b17-95ca-127a0d20d01a" />
+
+
+<img width="393" height="748" alt="GUIDE Book" src="https://github.com/user-attachments/assets/de526a11-f45b-481a-a440-f6aff28706d2" />
+
+
+
+
+
+
 
 
 ✨ Features
